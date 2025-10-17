@@ -47,6 +47,8 @@ for pkg in packages:
 
 Run the main program with:
 
-main.py
+```bash
+python main.py
+```
 
 Make sure to adjust any dataset paths or hyperparameters directly in main.py as needed.
