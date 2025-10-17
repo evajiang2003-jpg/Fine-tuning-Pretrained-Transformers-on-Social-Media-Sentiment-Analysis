@@ -1,8 +1,6 @@
 # Fine-tuning Pretrained Transformers on Social Media Sentiment Analysis
 Jiang Yifan DSA4213 Assignment3
 
-# Fine-tuning Pretrained Transformers on Social Media Sentiment Analysis
-
 ## Project Overview
 This project focuses on fine-tuning pretrained transformer models for sentiment analysis on social media data. The dataset used is **Sentiment140**, which contains labeled tweets for positive and negative sentiment classification.
 
