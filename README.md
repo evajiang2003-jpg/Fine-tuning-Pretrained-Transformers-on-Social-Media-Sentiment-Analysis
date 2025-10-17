@@ -53,4 +53,4 @@ python main.py
 
 Make sure to adjust any dataset paths or hyperparameters directly in main.py as needed.
 
-If you have any questions or want to see an example workflow, you can refer to the provided Jupyter Notebook.
+**If you have any questions or want to see an example workflow, you can refer to the provided Jupyter Notebook.**
